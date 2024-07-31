@@ -46,6 +46,8 @@ B:
   beatrice.txt
   bella.txt
   benjamin.txt
+  bernard.txt
+  boss.txt
   bianca.txt
 ```
 
