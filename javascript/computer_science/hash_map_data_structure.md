@@ -41,8 +41,8 @@ C:
   carlos.txt
   carla.txt
 B:
-  bryan.txt
-  bob.txt
+  byan.txt
+  bobas.txt
   beatrice.txt
   bella.txt
   benjamin.txt
@@ -50,6 +50,7 @@ B:
   boss.txt
   bbbbb.txt
   bianca.txt
+  bvbvbvb.txt
 ```
 
 If we get a new student in our school with the name `"Carlos"`, we can run our hash function to find out which folder to place them in. `hash("Carlos") -> "C"` so we put `"Carlos"` in the directory labeled `C`.
